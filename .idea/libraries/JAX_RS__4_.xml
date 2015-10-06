@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="JAX-RS (4)" type="JAX-RS">
+    <CLASSES>
+      <root url="jar://C:/Programs/Java/Jersey/jersey1.12/jersey-bundle-1.12.jar!/" />
+      <root url="jar://C:/Programs/Java/Jersey/jersey1.12/jersey-client-1.12.jar!/" />
+      <root url="jar://C:/Programs/Java/Jersey/jersey1.12/jersey-core-1.12.jar!/" />
+      <root url="jar://C:/Programs/Java/Jersey/jersey1.12/jersey-json-1.12.jar!/" />
+      <root url="jar://C:/Programs/Java/Jersey/jersey1.12/jersey-server-1.12.jar!/" />
+      <root url="jar://C:/Programs/Java/Jersey/jersey1.12/jersey-servlet-1.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

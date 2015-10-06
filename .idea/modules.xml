@@ -3,9 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/IDEA127387.iml" filepath="$PROJECT_DIR$/IDEA127387.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jersey12/jersey12.iml" filepath="$PROJECT_DIR$/jersey12/jersey12.iml" />
       <module fileurl="file://$PROJECT_DIR$/jersey14/jersey14.iml" filepath="$PROJECT_DIR$/jersey14/jersey14.iml" />
       <module fileurl="file://$PROJECT_DIR$/jersey19/jersey19.iml" filepath="$PROJECT_DIR$/jersey19/jersey19.iml" />
       <module fileurl="file://$PROJECT_DIR$/jersey20/jersey20.iml" filepath="$PROJECT_DIR$/jersey20/jersey20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jersey22/jersey22.iml" filepath="$PROJECT_DIR$/jersey22/jersey22.iml" />
     </modules>
   </component>
 </project>
